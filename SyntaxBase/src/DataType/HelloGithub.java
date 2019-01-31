@@ -10,6 +10,7 @@ package DataType;
  */
 public class HelloGithub {
     public static void main(String[] args) {
+        //能够通过idea和github两种方式进行修改.和提交代码
         System.out.println("hello github");
     }
 }
