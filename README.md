@@ -1,2 +1,1 @@
-# MyJavaBase
-基础代码Repository
+# MyJavaBase基础代码Repository
