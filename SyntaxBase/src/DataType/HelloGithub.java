@@ -9,4 +9,7 @@ package DataType;
  * @version v1.0.0    2019/1/31 16:58 chenxj  文件初始创建
  */
 public class HelloGithub {
+    public static void main(String[] args) {
+        System.out.println("hello github");
+    }
 }
